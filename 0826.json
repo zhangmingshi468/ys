@@ -60,8 +60,6 @@
     {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"}},
     {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
     {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
-    {"key":"wx","name":"公众号：神秘的哥哥们","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
-    {"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
     {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
     ],
     
